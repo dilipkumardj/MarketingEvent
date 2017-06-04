@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>Dilip.Kumar</sys_created_by>
+        <sys_created_on>2017-03-09 05:21:48</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>4b1922cb4f197200820db2718110c71d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_32437_marketing_events_table.x_32437_marketing.user</sys_name>
+        <sys_package display_value="Marketing Events" source="x_32437_marketing">3219ee0b4f197200820db2718110c70e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Marketing Events">3219ee0b4f197200820db2718110c70e</sys_scope>
+        <sys_security_acl display_value="x_32437_marketing_events_table">8f1922cb4f197200820db2718110c71a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_4b1922cb4f197200820db2718110c71d</sys_update_name>
+        <sys_updated_by>Dilip.Kumar</sys_updated_by>
+        <sys_updated_on>2017-03-09 05:21:48</sys_updated_on>
+        <sys_user_role display_value="x_32437_marketing.user" name="x_32437_marketing.user">be19ee8b4f197200820db2718110c7d3</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

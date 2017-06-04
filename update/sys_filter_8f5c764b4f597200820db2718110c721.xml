@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_filter">
+    <sys_filter action="INSERT_OR_UPDATE">
+        <filter table="core_company">nameSTARTSWITHacm^nameISNOTEMPTY^EQ<item endquery="false" field="name" goto="false" newquery="false" operator="STARTSWITH" or="false" value="acm"/>
+            <item endquery="false" field="name" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <group/>
+        <last_used>2017-03-09 06:45:55</last_used>
+        <mobile>true</mobile>
+        <roles/>
+        <sys_class_name>sys_filter</sys_class_name>
+        <sys_created_by>Dilip.Kumar</sys_created_by>
+        <sys_created_on>2017-03-09 06:45:55</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8f5c764b4f597200820db2718110c721</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>mobile</sys_name>
+        <sys_package display_value="Marketing Events" source="x_32437_marketing">3219ee0b4f197200820db2718110c70e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Marketing Events">3219ee0b4f197200820db2718110c70e</sys_scope>
+        <sys_update_name>sys_filter_8f5c764b4f597200820db2718110c721</sys_update_name>
+        <sys_updated_by>Dilip.Kumar</sys_updated_by>
+        <sys_updated_on>2017-03-09 06:45:55</sys_updated_on>
+        <table>core_company</table>
+        <title>mobile</title>
+        <user display_value="DilipKumar DJ">8030bfef4f372200820db2718110c764</user>
+    </sys_filter>
+</record_update>

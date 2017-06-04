@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="event_type" table="x_32437_marketing_events_table" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>event_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LUG</label>
+            <language>en</language>
+            <name>x_32437_marketing_events_table</name>
+            <sequence>0</sequence>
+            <sys_created_by>Dilip.Kumar</sys_created_by>
+            <sys_created_on>2017-03-09 06:00:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c8f1b6434f597200820db2718110c787</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Dilip.Kumar</sys_updated_by>
+            <sys_updated_on>2017-03-09 06:00:23</sys_updated_on>
+            <value>LUG</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>event_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Major</label>
+            <language>en</language>
+            <name>x_32437_marketing_events_table</name>
+            <sequence>1</sequence>
+            <sys_created_by>Dilip.Kumar</sys_created_by>
+            <sys_created_on>2017-03-09 06:00:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>48f1b6434f597200820db2718110c788</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Dilip.Kumar</sys_updated_by>
+            <sys_updated_on>2017-03-09 06:00:23</sys_updated_on>
+            <value>Major</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>event_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Seminar</label>
+            <language>en</language>
+            <name>x_32437_marketing_events_table</name>
+            <sequence>2</sequence>
+            <sys_created_by>Dilip.Kumar</sys_created_by>
+            <sys_created_on>2017-03-09 06:00:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c0f1b6434f597200820db2718110c789</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Dilip.Kumar</sys_updated_by>
+            <sys_updated_on>2017-03-09 06:00:23</sys_updated_on>
+            <value>Seminar</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>event_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Booth</label>
+            <language>en</language>
+            <name>x_32437_marketing_events_table</name>
+            <sequence>3</sequence>
+            <sys_created_by>Dilip.Kumar</sys_created_by>
+            <sys_created_on>2017-03-09 06:00:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4cf1b6434f597200820db2718110c789</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Dilip.Kumar</sys_updated_by>
+            <sys_updated_on>2017-03-09 06:00:23</sys_updated_on>
+            <value>Booth</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>event_type</element>
+            <name>x_32437_marketing_events_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>Dilip.Kumar</sys_created_by>
+            <sys_created_on>2017-03-09 06:00:23</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>04f1b6434f597200820db2718110c788</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>event_type</sys_name>
+            <sys_package display_value="Marketing Events" source="x_32437_marketing">3219ee0b4f197200820db2718110c70e</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Marketing Events">3219ee0b4f197200820db2718110c70e</sys_scope>
+            <sys_update_name>sys_choice_x_32437_marketing_events_table_event_type</sys_update_name>
+            <sys_updated_by>Dilip.Kumar</sys_updated_by>
+            <sys_updated_on>2017-03-09 06:00:23</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
